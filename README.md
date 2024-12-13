@@ -1,16 +1,28 @@
-# atw_task
 
-A new Flutter project.
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
 
-A few resources to get you started if this is your first Flutter project:
+1-Clone the Repository
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+```
+git clone https://github.com/HussienKhaaleed/atw-task.git
+```
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+2-Install Dependencies
+
+```
+flutter pub get
+```
+
+## Running the Project:
+
+```
+flutter run
+```
+
+# 📱 Screens
+
+## 🚍 Login & Register 
+![image](https://github.com/user-attachments/assets/c2fa436a-6925-42fa-9261-065959e2aa9a)
+![image](https://github.com/user-attachments/assets/68eff2ca-f891-4eeb-baf6-3fb509b302c3)
